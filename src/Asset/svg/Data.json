@@ -1,0 +1,549 @@
+[
+    {
+        "Product Name": "Red Velvet Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Indulge in the rich, velvety flavor and moist texture of our classic Red Velvet treats, perfect for any special occasion.",
+        "Image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U3RyYXdiZXJyeSUyMCUyMGN1cGNha2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "Product Name": "Chocolate Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Delight in our decadent chocolate delights, crafted from the finest cocoa for an irresistibly rich and creamy experience.",
+        "Image": "https://images.unsplash.com/photo-1553990810-0af264b1defb?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hvY29sYXRlJTIwY3VwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Carrot Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Savor the wholesome goodness of our carrot cupcakes, blended with fresh carrots and warm spices for a moist and flavorful treat.",
+        "Image": "https://images.unsplash.com/photo-1487124504955-e42a39e11aaf?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2Fycm90JTIwJTIwY3VwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Strawberry Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Experience the burst of sweet and tangy flavors in our strawberry cupcakes, topped with fresh strawberry puree for a fruity indulgence.",
+        "Image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3RyYXdiZXJyeSUyMCUyMGN1cGNha2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "Product Name": "Healthy Wheat Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Delight in our nutritious wheat cupcakes, made with whole wheat flour and natural sweeteners for a wholesome and guilt-free dessert.",
+        "Image": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3VwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Pineapple Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Relish the tropical sweetness of our pineapple cupcakes, bursting with juicy pineapple bits and a light, refreshing flavor.",
+        "Image": "https://images.unsplash.com/photo-1551893282-d9f91b865cdb?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8UGluZWFwcGxlJTIwY3VwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Millets Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Indulge in the hearty and nutty taste of our millet cupcakes, packed with the goodness of ancient grains for a nourishing treat.",
+        "Image": "https://images.unsplash.com/photo-1531112868439-b6b658cfe48a?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fE1pbGxldHMlMjAlMjBjdXBjYWtlfGVufDB8fDB8fHww"
+    },
+    {
+        "Product Name": "Lava Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Dive into the molten center of our lava cupcakes, oozing with rich, warm chocolate for an irresistible and indulgent surprise.",
+        "Image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TEFWQSUyMCUyMGN1cGNha2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "Product Name": "Vanilla Cupcake",
+        "Category": "bakery and cakes",
+        "subCategory": "cupcake",
+        "Detail": "Enjoy the timeless taste of our vanilla confections, made with pure vanilla extract for a delicate and aromatic flavor.",
+        "Image": "https://images.unsplash.com/photo-1551404973-7dec6ee9bba7?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmFuaWxsYSUyMCUyMGN1cGNha2V8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "Product Name": "Healthy Whole Wheat Brownie",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Enjoy our wholesome whole wheat brownies, crafted with nutritious ingredients for a guilt-free indulgence that doesn't compromise on flavor.",
+        "Image": "https://plus.unsplash.com/premium_photo-1673960696022-fec06e44f460?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SGVhbHRoeSUyMFdob2xlJTIwV2hlYXQlMjBCcm93bmllfGVufDB8fDB8fHww"
+    },
+    {
+        "Product Name": "Hazelnut Brownies",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Savor the rich, nutty flavor of our hazelnut brownies, combining smooth chocolate with crunchy hazelnuts for a truly decadent experience.",
+        "Image": "https://images.unsplash.com/photo-1551529674-48920e9b835b?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGF6ZWxudXQlMjBCcm93bmllfGVufDB8fDB8fHww"
+    },
+    {
+        "Product Name": "Chocolate Orange Brownies",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Experience the perfect blend of zesty orange and rich chocolate in our chocolate orange brownies, offering a fresh and flavorful twist.",
+        "Image": "https://images.unsplash.com/photo-1580822664294-f9462d112359?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2hvY29sYXRlJTIwT3JhbmdlJTIwQnJvd25pZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Walnut Fudgy Brownies",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Delight in the classic combination of crunchy walnuts and gooey chocolate in our fudgy brownies, perfect for nut lovers and chocolate enthusiasts alike.",
+        "Image": "https://unflash.com/walnut-fudgy-brownies"
+    },
+    {
+        "Product Name": "Chocolate Fudgy Brownie",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Indulge in the ultimate chocolate experience with our fudgy brownies, boasting a soft, dense texture and rich, creamy chocolate flavor.",
+        "Image": "https://images.unsplash.com/photo-1553452118-621e1f860f43?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hvY29sYXRlJTIwJTIwRnVkZ3klMjBCcm93bmllfGVufDB8fDB8fHww"
+    },
+    {
+        "Product Name": "Double Chocolate Brownie",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Treat yourself to double the decadence with our double chocolate brownies, made with both melted and chunky chocolate for an extra indulgent bite.",
+        "Image": "https://unflash.com/double-chocolate-brownie"
+    },
+    {
+        "Product Name": "Marble Brownie",
+        "Category": "bakery and cakes",
+        "subCategory": "brownies",
+        "Detail": "Enjoy the best of both worlds with our marble brownies, swirled with rich chocolate and creamy vanilla for a visually stunning and delicious treat.",
+        "Image": "https://unflash.com/marble-brownie"
+    },
+    {
+        "Product Name": "Customized Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Celebrate any occasion with our custom-designed cakes, tailored to match your unique preferences and style for a truly personalized experience.",
+        "Image": "https://plus.unsplash.com/premium_photo-1667761255134-30193517a3d8?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q3VzdG9taXplZCUyMENha2VzfGVufDB8fDB8fHww"
+    },
+    {
+        "Product Name": "Bento Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Indulge in our mini bento cakes, perfect for individual servings, crafted with love and creativity to brighten up any day.",
+        "Image": "https://plus.unsplash.com/premium_photo-1676793357036-5b61524e90d2?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmVudG8lMjBDYWtlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "Product Name": "Jar Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Savor our jar cakes, layered with moist cake and rich frosting, offering a convenient and delightful treat on the go.",
+        "Image": "https://images.unsplash.com/photo-1542317913-d648b4bd85ff?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SmFyJTIwQ2FrZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "Product Name": "Dream Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Experience the magic of our dream cakes, elegantly designed with intricate details to make your sweetest dreams come true.",
+        "Image": "https://unflash.com/dream-cakes"
+    },
+    {
+        "Product Name": "Mini Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Enjoy a bite-sized delight with our mini cakes, perfect for snacking or sharing, offering all the flavor of a full-sized cake in a compact form.",
+        "Image": "https://unflash.com/mini-cakes"
+    },
+    {
+        "Product Name": "Geode Cakes",
+        "Category": "bakery and cakes",
+        "subCategory": "cakes",
+        "Detail": "Marvel at our stunning geode cakes, featuring crystal-like sugar formations that mimic the beauty of natural geodes, ideal for a dazzling celebration.",
+        "Image": "https://unflash.com/geode-cakes"
+    },
+    {
+        "Product Name": "Chocolate Cookies",
+        "Category": "bakery and cakes",
+        "subCategory": "cookies",
+        "Detail": "Indulge in the rich and decadent flavor of our chocolate cookies, crafted with premium cocoa for a melt-in-your-mouth experience.",
+        "Image": "https://unflash.com/chocolate-cookies"
+    },
+    {
+        "Product Name": "Ragi Cookies",
+        "Category": "bakery and cakes",
+        "subCategory": "cookies",
+        "Detail": "Enjoy a healthy twist with our ragi cookies, offering a wholesome and nutritious snack that’s both delicious and satisfying.",
+        "Image": "https://unflash.com/ragi-cookies"
+    },
+    {
+        "Product Name": "Choco Chip Cookies",
+        "Category": "bakery and cakes",
+        "subCategory": "cookies",
+        "Detail": "Delight in the classic taste of our choco chip cookies, filled with gooey chocolate chips for a timeless treat everyone loves.",
+        "Image": "https://unflash.com/choco-chip-cookies"
+    },
+    {
+        "Product Name": "Jeera Cookies",
+        "Category": "bakery and cakes",
+        "subCategory": "cookies",
+        "Detail": "Savor the savory goodness of our jeera cookies, infused with cumin seeds for a unique flavor perfect for tea-time snacking.",
+        "Image": "https://unflash.com/jeera-cookies"
+    },
+    {
+        "Product Name": "Whole Wheat Cookies",
+        "Category": "bakery and cakes",
+        "subCategory": "cookies",
+        "Detail": "Relish the healthy and hearty flavor of our whole wheat cookies, made with wholesome ingredients for a guilt-free indulgence.",
+        "Image": "https://unflash.com/whole-wheat-cookies"
+    },
+    {
+        "Product Name": "Old Fashioned Sugar Raised Donuts",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Take a trip down memory lane with our old-fashioned sugar-raised donuts, offering a light and fluffy texture dusted with sugar.",
+        "Image": "https://unflash.com/old-fashioned-sugar-raised-donuts"
+    },
+    {
+        "Product Name": "Vanilla KitKat Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Indulge in the perfect combination of vanilla and crunchy KitKat pieces atop a soft, freshly baked donut for an irresistible treat.",
+        "Image": "https://unflash.com/vanilla-kitkat-donut"
+    },
+    {
+        "Product Name": "Korean Style Fried Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Savor the crispy yet chewy texture of our Korean-style fried donut, offering a delightful twist on a classic snack.",
+        "Image": "https://unflash.com/korean-style-fried-donut"
+    },
+    {
+        "Product Name": "Eggless No Yeast Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Enjoy the soft and fluffy texture of our eggless, no-yeast donut, crafted for those seeking a lighter, plant-based treat.",
+        "Image": "https://unflash.com/eggless-no-yeast-donut"
+    },
+    {
+        "Product Name": "Baked Chocolate Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Relish the rich flavor of our baked chocolate donuts, offering a healthier option without sacrificing indulgence.",
+        "Image": "https://unflash.com/baked-chocolate-donut"
+    },
+    {
+        "Product Name": "Gluten-Free Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Delight in our gluten-free donuts, made with premium ingredients for a safe and tasty treat for everyone.",
+        "Image": "https://unflash.com/gluten-free-donut"
+    },
+    {
+        "Product Name": "Sugar-Free Wholewheat Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Indulge guilt-free with our sugar-free whole wheat donut, combining health and taste in every bite.",
+        "Image": "https://unflash.com/sugar-free-wholewheat-donut"
+    },
+    {
+        "Product Name": "Creme Brûlée Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Savor the luxurious flavor of our Creme Brûlée Bomboloni, featuring a crispy caramelized top and a creamy center.",
+        "Image": "https://unflash.com/creme-brulee-bomboloni"
+    },
+    {
+        "Product Name": "Mango Vanilla Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Enjoy the tropical taste of mango blended with the smooth richness of vanilla in our soft and airy Bomboloni.",
+        "Image": "https://unflash.com/mango-vanilla-bomboloni"
+    },
+    {
+        "Product Name": "Chocolate Overloaded Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Dive into our chocolate lover’s dream with this Bomboloni, overflowing with rich, creamy chocolate filling.",
+        "Image": "https://unflash.com/chocolate-overloaded-bomboloni"
+    },
+    {
+        "Product Name": "Blueberry Cheesecake Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Experience the tangy-sweet combination of blueberries and creamy cheesecake in every bite of our Bomboloni.",
+        "Image": "https://unflash.com/blueberry-cheesecake-bomboloni"
+    },
+    {
+        "Product Name": "Pinacolada Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Transport yourself to a tropical paradise with the refreshing flavors of pineapple and coconut in our Pinacolada Bomboloni.",
+        "Image": "https://unflash.com/pinacolada-bomboloni"
+    },
+    {
+        "Product Name": "French Sugar Glaze Donuts",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Delight in the simple elegance of our French sugar glaze donuts, offering a light sweetness and perfect glaze.",
+        "Image": "https://unflash.com/french-sugar-glaze-donuts"
+    },
+    {
+        "Product Name": "Mango Kesar Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Enjoy the exotic blend of mango and saffron in our Mango Kesar donut, a treat full of vibrant flavors.",
+        "Image": "https://unflash.com/mango-kesar-donut"
+    },
+    {
+        "Product Name": "Nuts Overloaded Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Relish the crunchy, nutty goodness of our nuts-overloaded donut, packed with a variety of premium nuts.",
+        "Image": "https://unflash.com/nuts-overloaded-donut"
+    },
+    {
+        "Product Name": "Matcha Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Savor the earthy and smooth flavor of matcha in our soft, center-filled Matcha Bomboloni.",
+        "Image": "https://unflash.com/matcha-bomboloni"
+    },
+    {
+        "Product Name": "Strawberry Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Enjoy the classic sweet and fruity flavor of our strawberry donut, topped with fresh strawberry glaze.",
+        "Image": "https://unflash.com/strawberry-donut"
+    },
+    {
+        "Product Name": "Custard Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Delight in the creamy, smooth filling of our Custard Bomboloni, making every bite a luscious experience.",
+        "Image": "https://unflash.com/custard-bomboloni"
+    },
+    {
+        "Product Name": "Biscoff Bomboloni",
+        "Category": "bakery and cakes",
+        "subCategory": "bomboloni",
+        "Detail": "Indulge in the unique caramelized flavor of Biscoff, paired with the soft and airy texture of our Bomboloni.",
+        "Image": "https://unflash.com/biscoff-bomboloni"
+    },
+    {
+        "Product Name": "Tiramisu Donut",
+        "Category": "bakery and cakes",
+        "subCategory": "donuts",
+        "Detail": "Savor the rich coffee and creamy mascarpone flavors of our tiramisu donut, perfect for a gourmet indulgence.",
+        "Image": "https://unflash.com/tiramisu-donut"
+    },
+    {
+        "Product Name": "Classic Vanilla Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Relish the smooth, timeless taste of classic vanilla, crafted to create the perfect creamy scoop every time.",
+        "Image": "https://unflash.com/classic-vanilla-ice-cream-premix"
+    },
+    {
+        "Product Name": "Chocolate Temptation Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Indulge in the rich, decadent flavor of chocolate temptation, offering a deep and creamy chocolate experience.",
+        "Image": "https://unflash.com/chocolate-temptation-ice-cream-premix"
+    },
+    {
+        "Product Name": "Black Currant Soft Serve Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Enjoy the sweet and tangy flavors of black currant in a light, airy soft serve that's perfect for any occasion.",
+        "Image": "https://unflash.com/black-currant-soft-serve-ice-cream-premix"
+    },
+    {
+        "Product Name": "Strawberry Softy Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Savor the fruity freshness of strawberry in this delightful softy, offering a burst of flavor with every bite.",
+        "Image": "https://unflash.com/strawberry-softy-ice-cream-premix"
+    },
+    {
+        "Product Name": "Butterscotch Crunch Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Experience the perfect blend of creamy butterscotch and crunchy bits, creating a rich and textured treat.",
+        "Image": "https://unflash.com/butterscotch-crunch-ice-cream-premix"
+    },
+    {
+        "Product Name": "Tender Coconut Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Taste the tropical freshness of tender coconut, providing a light and refreshing ice cream with natural sweetness.",
+        "Image": "https://unflash.com/tender-coconut-ice-cream-premix"
+    },
+    {
+        "Product Name": "Salted Caramel Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Delight in the contrast of sweet and salty with our salted caramel ice cream premix, delivering a smooth, rich flavor.",
+        "Image": "https://unflash.com/salted-caramel-ice-cream-premix"
+    },
+    {
+        "Product Name": "Strawberry Super Scoop Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Indulge in the juicy, fresh taste of strawberries with every super scoop, a perfect balance of sweetness and creaminess.",
+        "Image": "https://unflash.com/strawberry-super-scoop-ice-cream-premix"
+    },
+    {
+        "Product Name": "Badam Anjeer Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Savor the rich, nutty flavors of almond (badam) and fig (anjeer) in this luxurious ice cream premix.",
+        "Image": "https://unflash.com/badam-anjeer-ice-cream-premix"
+    },
+    {
+        "Product Name": "Alphonso Mango Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Enjoy the king of mangoes, Alphonso, in this tropical and creamy ice cream premix for a refreshing, exotic treat.",
+        "Image": "https://unflash.com/alphonso-mango-ice-cream-premix"
+    },
+    {
+        "Product Name": "Banarsi Paan Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Experience the aromatic flavor of Banarsi paan in a cool, refreshing ice cream that’s perfect for a unique dessert.",
+        "Image": "https://unflash.com/banarsi-paan-ice-cream-premix"
+    },
+    {
+        "Product Name": "Royal Rose Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Indulge in the delicate floral flavor of royal rose, offering a fragrant and creamy dessert experience.",
+        "Image": "https://unflash.com/royal-rose-ice-cream-premix"
+    },
+    {
+        "Product Name": "Red Velvet Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Enjoy the rich, velvety texture and vibrant color of red velvet in this indulgent ice cream flavor.",
+        "Image": "https://unflash.com/red-velvet-ice-cream-premix"
+    },
+    {
+        "Product Name": "Mithai Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Savor the sweetness of traditional Indian mithai flavors, blended into a creamy, frozen treat.",
+        "Image": "https://unflash.com/mithai-ice-cream-premix"
+    },
+    {
+        "Product Name": "Kesar Rasmalai Ice Cream Premix",
+        "Category": "ice cream",
+        "subCategory": "ice cream premix",
+        "Detail": "Delight in the luxurious combination of saffron (kesar) and rasmalai, offering a rich and royal ice cream experience.",
+        "Image": "https://unflash.com/kesar-rasmalai-ice-cream-premix"
+    },
+    {
+        "Product Name": "Foxtail Millet Milk Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Enjoy the soft and slightly sweet flavor of foxtail millet milk bread, offering a wholesome and nutritious twist on classic bread.",
+        "Image": "https://unflash.com/foxtail-millet-milk-bread"
+    },
+    {
+        "Product Name": "Millet Sandwich Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Savor the goodness of millet in our sandwich bread, perfect for hearty and healthy sandwiches.",
+        "Image": "https://unflash.com/millet-sandwich-bread"
+    },
+    {
+        "Product Name": "Herbed Millet Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Indulge in the aromatic flavors of herbs combined with millet for a deliciously unique bread option.",
+        "Image": "https://unflash.com/herbed-millet-bread"
+    },
+    {
+        "Product Name": "Millet Focaccia Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Relish the Mediterranean flavors in our millet focaccia bread, topped with herbs and a drizzle of olive oil for a perfect pairing with any meal.",
+        "Image": "https://unflash.com/millet-focaccia-bread"
+    },
+    {
+        "Product Name": "Footlong Millet",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Enjoy the long, soft texture of our footlong millet bread, perfect for making delicious subs and sandwiches.",
+        "Image": "https://unflash.com/footlong-millet"
+    },
+    {
+        "Product Name": "Millet Cinnamon Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Delight in the sweet and spicy flavor of cinnamon combined with the goodness of millet, ideal for a healthy breakfast or snack.",
+        "Image": "https://unflash.com/millet-cinnamon-bread"
+    },
+    {
+        "Product Name": "Millet Rustic Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Savor the hearty texture and wholesome taste of rustic millet bread, perfect for those seeking a healthier, homemade feel.",
+        "Image": "https://unflash.com/millet-rustic-bread"
+    },
+    {
+        "Product Name": "Millet Tomato Bread",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Experience the tangy and flavorful combination of millet and tomatoes, baked to perfection in our millet tomato bread.",
+        "Image": "https://unflash.com/millet-tomato-bread"
+    },
+    {
+        "Product Name": "Gluten-Free Millet Burger Bun",
+        "Category": "bread",
+        "subCategory": "millet breads",
+        "Detail": "Enjoy our gluten-free millet burger buns, offering a nutritious and delicious alternative for your burgers.",
+        "Image": "https://unflash.com/gluten-free-millet-burger-bun"
+    },
+    {
+        "Product Name": "Eggless Almond Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Enjoy the delicate taste of our eggless almond tea cake, made with finely ground almonds for a light, nutty, and wholesome treat.",
+        "Image": "https://unflash.com/eggless-almond-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Choco Walnut Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Indulge in our rich and moist eggless choco walnut tea cake, blending smooth chocolate with crunchy walnuts for a perfect pairing.",
+        "Image": "https://unflash.com/eggless-choco-walnut-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Cherry Coconut Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Savor the tropical blend of coconut and sweet cherries in our eggless tea cake, offering a light and fruity twist to your tea-time delight.",
+        "Image": "https://unflash.com/eggless-cherry-coconut-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Coffee Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Relish the robust flavor of our eggless coffee tea cake, a perfect match for your morning brew with its rich coffee aroma and texture.",
+        "Image": "https://unflash.com/eggless-coffee-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Date Walnut Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Enjoy the sweet and nutty flavor of our eggless date walnut tea cake, combining soft dates and crunchy walnuts in every bite.",
+        "Image": "https://unflash.com/eggless-date-walnut-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Lemon Poppy Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Delight in the zesty flavor of lemon paired with the crunch of poppy seeds in our eggless tea cake, a refreshing and flavorful treat.",
+        "Image": "https://unflash.com/eggless-lemon-poppy-tea-cake"
+    },
+    {
+        "Product Name": "Eggless Marble Tea Cake",
+        "Category": "bakery and cakes",
+        "subCategory": "tea cake",
+        "Detail": "Savor the classic combination of vanilla and chocolate in our eggless marble tea cake, offering a visually appealing and deliciously rich flavor.",
+        "Image": "https://unflash.com/eggless-marble-tea-cake"
+    }
+]
+

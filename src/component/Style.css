@@ -1,0 +1,34 @@
+/* Style.css */
+.carousel-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* Ensure each item takes full height of the carousel */
+}
+
+/* Default styling for carousel items */
+.slick-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Center item styling */
+.slick-center .carousel-item div {
+  color: white;
+  font-size: 2.5rem; /* Increase size for middle item */
+  font-weight: bold;
+}
+
+/* Left and right items styling */
+.slick-slide:not(.slick-center) .carousel-item div {
+  color: #BFBDBD;
+  font-size: 1.5rem; 
+  font-weight: bold;
+
+}
+
+/* Ensure only the center item is highlighted */
+.slick-slide:not(.slick-center) .carousel-item div {
+  transition: color 0.3s ease, font-size 0.3s ease;
+}
