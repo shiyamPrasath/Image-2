@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import axios from 'axios'; // For making HTTP requests
 import backgroundImg from '../../Asset/Image/Section3.png';
-import Card from './Card';
+
 
 const Page3 = () => {
   const scrollContainer = useRef(null);
@@ -152,8 +152,6 @@ const Page3 = () => {
             }}
           />
         </div>
-        {/* Pass the centered subCategory to ProductCard 
-        <div><ProductCard/></div> */}
       </div>
     </div>
   );
