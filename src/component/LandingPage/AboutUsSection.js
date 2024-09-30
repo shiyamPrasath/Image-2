@@ -4,25 +4,25 @@ import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt, FaFacebookF, FaInstagram, FaWha
 
 const Footer = () => {
   return (
-    <footer className="bg-secondary text-primary py-10">
+    <footer className="bg-secondary text-primary py-5"> 
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center space-y-8 md:space-y-0">
           
           {/* Left Section: Logo and Description */}
           <div className="text-center md:text-left md:w-1/3">
             <img
-              src={Logo} // Replace with the path to your logo
+              src={Logo}
               alt="Bakery Logo"
               className="mx-auto md:mx-0 w-28 h-auto"
             />
-            <p className="mt-4 ">
+            <p className="mt-4">
               Welcome to our online bakery shop where we serve freshly baked
               goods with love and care. Come experience the best assortment of cakes, cookies, and more!
             </p>
           </div>
 
           {/* Middle Section: Navigation and Social Media */}
-          <div className="md:w-1/3 text-center space-y-4">
+          <div className="md:w-1/3 text-center space-y-4" >
             <h3 className="text-lg font-semibold mb-4">Navigation</h3>
             <ul className="space-y-2">
               <li>
@@ -45,16 +45,16 @@ const Footer = () => {
               </li>
             </ul>
             <div className="flex justify-center space-x-4 mt-4">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className=" hover:text-white">
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                 <FaFacebookF size={20} />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className=" hover:text-white">
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                 <FaInstagram size={20} />
               </a>
-              <a href="https://wa.me/919384732012" target="_blank" rel="noopener noreferrer" className=" hover:text-white">
+              <a href="https://wa.me/919384732012" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                 <FaWhatsapp size={20} />
               </a>
-              <a href="tel:+919384732012" className=" hover:text-white">
+              <a href="tel:+919384732012" className="hover:text-white">
                 <FaPhoneAlt size={20} />
               </a>
             </div>
@@ -66,15 +66,15 @@ const Footer = () => {
             <div className="flex flex-col items-center md:items-end space-y-2">
               <div className="flex items-center space-x-2">
                 <FaPhoneAlt />
-                <p className="">+91 93847 32012</p>
+                <p>+91 93847 32012</p>
               </div>
               <div className="flex items-center space-x-2">
                 <FaEnvelope />
-                <p className="">shiyamparasth@trithiz.com</p>
+                <p>shiyamparasth@trithiz.com</p>
               </div>
               <div className="flex items-center space-x-2">
                 <FaMapMarkerAlt />
-                <p className="">130, Forest Road, 3rd Street, Theni</p>
+                <p>130, Forest Road, 3rd Street, Theni</p>
               </div>
               {/* Embed Google Map */}
               <div className="mt-4">
@@ -94,7 +94,7 @@ const Footer = () => {
 
         {/* Bottom Section: Footer Info */}
         <div className="mt-8 border-t border-gray-700 pt-4 text-center">
-          <p className="">© {new Date().getFullYear()} Your Bakery Shop. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Your Bakery Shop. All rights reserved.</p>
         </div>
       </div>
     </footer>

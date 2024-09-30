@@ -34,7 +34,6 @@ const ProductCard = ({ selectedCategory }) => {
   const handleQuantityChange = (productId, product, change) => {
     setQuantities((prevQuantities) => {
       const newQuantity = (prevQuantities[productId] || 0) + change;
-
       // If quantity is zero or more, update the cart and quantities
       if (newQuantity > 0) {
         addToCart(product, newQuantity); // Adds or updates the product in the cart

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shiyamPrasath.github.io/Trithiz-2",
+  "homepage": ".",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "aos": "^2.3.4",
     "axios": "^1.7.7",
     "daisyui": "^4.12.10",
     "date-fns": "^4.1.0",
@@ -32,9 +33,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -56,7 +55,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "gh-pages": "^6.1.1",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.11"
   }

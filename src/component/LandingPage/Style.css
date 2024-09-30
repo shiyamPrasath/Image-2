@@ -1,0 +1,69 @@
+/* styles.css */
+
+/* Hide scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+/* Custom smooth animation for category transitions */
+.smooth-transition {
+    transition: transform 0.03s ease, font-size 0.3s ease, opacity 0.3s ease;
+}
+
+.scale-up {
+    transform: scale(1.25);
+    font-size: 2rem; /* Larger size for the center category */
+}
+
+.scale-down {
+    transform: scale(0.75);
+    font-size: 1.5rem; /* Smaller size for side categories */
+}
+
+.invisible {
+    visibility: hidden; /* Hide the element */
+}
+
+.category-item {
+    color: white;
+    text-align: center;
+    min-width: 100px; /* Minimum width for consistent spacing */
+    cursor: pointer; /* Pointer cursor for clickable items */
+}
+
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px); /* Fades in from below */
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+      transform: translateY(0); /* Dissolves upward */
+    }
+    to {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+  }
+  
+  .animate-in {
+    animation: fadeIn 0.30s ease forwards; /* Fade in animation */
+  }
+  
+  .animate-out {
+    animation: fadeOut 0.30s ease forwards; /* Fade out animation */
+  }
+  
